@@ -6,7 +6,10 @@
 4. copy and paste the 'MMM-ImageSlideshow' in the modules folder
 5. copy and paste actual.js inside "MMM-ImageSlideshow"
 6. cd.. back to MagicMirror
-7. npm start
+7. cd js
+8. replace electron.js to the electron.js from my repository
+9. cd.. back to MagicMirror
+10. npm start
 
 **Dependencies :** 
 1. ‘request’ - a node function that calls an API of a server.
